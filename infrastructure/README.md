@@ -39,7 +39,6 @@ This section will guide you to deploy the Tech Challenge app written in Go and P
    | Protocol Type | Port | Source | 
    | ------------- | ----- | ------ |
    | SSH        | 22 | 0.0.0.0/0 |
-   | TCP        | 5432 | Bastion Security Group |
 
    #### All - Outbound
    | Protocol Type | Port | Source | 
